@@ -2,7 +2,7 @@
   "name": "tuner",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://github.io/marcaaron/basic-guitar-tuner",
+  "homepage":"https://marcaarongithub.io/basic-guitar-tuner",
   "dependencies": {
     "ajv": "^6.2.1",
     "react": "^16.2.0",
